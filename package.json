@@ -1,0 +1,28 @@
+{
+  "name": "echobot",
+  "version": "1.0.0",
+  "description": "A sample bot for getting started with Bot Framework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "botframework"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^5.2.0",
+    "sentiment":"^4.0.0",
+    "sqlite3":"^3.1.9"
+  }
+}
